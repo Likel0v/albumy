@@ -1,3 +1,4 @@
+[![Run on Repl.it](https://repl.it/badge/github/greyli/albumy)](https://repl.it/github/greyli/albumy)
 # Albumy
 
 *Capture and share every wonderful moment.*
